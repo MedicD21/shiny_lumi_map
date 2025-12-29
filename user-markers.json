@@ -1,0 +1,67 @@
+{
+  "markers": [
+    {
+      "type": "circle",
+      "label": "circle marker",
+      "lat": 1676,
+      "lng": 2284,
+      "color": "#4fc3f7",
+      "id": "usr-f37hsgt",
+      "locked": false
+    },
+    {
+      "type": "circle",
+      "label": "circle marker",
+      "lat": 1959,
+      "lng": 2015,
+      "color": "#4fc3f7",
+      "id": "usr-smxp9v7",
+      "locked": false
+    },
+    {
+      "type": "circle",
+      "label": "circle marker",
+      "lat": 2224,
+      "lng": 2392,
+      "color": "#4fc3f7",
+      "id": "usr-v9dehjv",
+      "locked": false
+    },
+    {
+      "type": "circle",
+      "label": "circle marker",
+      "lat": 2269,
+      "lng": 1709,
+      "color": "#4fc3f7",
+      "id": "usr-24v96iz",
+      "locked": false
+    },
+    {
+      "type": "circle",
+      "label": "circle marker",
+      "lat": 2445,
+      "lng": 2221,
+      "color": "#4fc3f7",
+      "id": "usr-asdjf92",
+      "locked": false
+    },
+    {
+      "type": "circle",
+      "label": "circle marker",
+      "lat": 2217,
+      "lng": 2441,
+      "color": "#4fc3f7",
+      "id": "usr-uqsfqur",
+      "locked": false
+    },
+    {
+      "type": "circle",
+      "label": "circle marker",
+      "lat": 2064,
+      "lng": 2292,
+      "color": "#4fc3f7",
+      "id": "usr-fzcj6m3",
+      "locked": false
+    }
+  ]
+}

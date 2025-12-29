@@ -1,0 +1,3298 @@
+[
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 3333,
+    "lng": 1817,
+    "id": "usr-2r5oizy",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 3193,
+    "lng": 1592,
+    "id": "usr-292c844",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 3145,
+    "lng": 1302,
+    "id": "usr-fwoxlz8",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 3101,
+    "lng": 1341,
+    "id": "usr-y6mwkir",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 3127,
+    "lng": 1388,
+    "id": "usr-2xzh8my",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 3210,
+    "lng": 1162,
+    "id": "usr-k4kn7m4",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2949,
+    "lng": 1533,
+    "id": "usr-gtbyeyv",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2948,
+    "lng": 1590,
+    "id": "usr-hrmigpa",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2920,
+    "lng": 1610,
+    "id": "usr-1ptgkdx",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2849,
+    "lng": 1698,
+    "id": "usr-gm0x5k0",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2807,
+    "lng": 1694,
+    "id": "usr-6o48nja",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2755,
+    "lng": 1587,
+    "id": "usr-a5ioi3x",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 3123,
+    "lng": 1082,
+    "id": "usr-sa2tw27",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 3072,
+    "lng": 998,
+    "id": "usr-r5ukst4",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 3036,
+    "lng": 939,
+    "id": "usr-j0re1o8",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2733,
+    "lng": 1154,
+    "id": "usr-v3gza95",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2679,
+    "lng": 1238,
+    "id": "usr-x3r1crn",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2717,
+    "lng": 1305,
+    "id": "usr-nign7md",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2602,
+    "lng": 1739,
+    "id": "usr-tgijwp0",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2551,
+    "lng": 1737,
+    "id": "usr-jce8qof",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2603,
+    "lng": 1791,
+    "id": "usr-6ktu2kv",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2548,
+    "lng": 1795,
+    "id": "usr-ta05d00",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2577,
+    "lng": 1820,
+    "id": "usr-mnlrv8j",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2604,
+    "lng": 1855,
+    "id": "usr-nokezoq",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2545,
+    "lng": 1859,
+    "id": "usr-8l8pgv9",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2802,
+    "lng": 1887,
+    "id": "usr-e3tup34",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2803,
+    "lng": 1931,
+    "id": "usr-2wt6gr7",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2627,
+    "lng": 2001,
+    "id": "usr-ijf3z5d",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2572,
+    "lng": 2024,
+    "id": "usr-ybdj9fa",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2525,
+    "lng": 1991,
+    "id": "usr-79a3dh3",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2494,
+    "lng": 2065,
+    "id": "usr-osn7wbx",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2524,
+    "lng": 1420,
+    "id": "usr-ng46wc3",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2599,
+    "lng": 1046,
+    "id": "usr-ypmx7d9",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2575,
+    "lng": 1079,
+    "id": "usr-6io1bhf",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2537,
+    "lng": 1018,
+    "id": "usr-j9nkeca",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2571,
+    "lng": 990,
+    "id": "usr-titqnlz",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2502,
+    "lng": 827,
+    "id": "usr-03bpj2f",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2864,
+    "lng": 644,
+    "id": "usr-7mzzyen",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2842,
+    "lng": 625,
+    "id": "usr-jt1devw",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2702,
+    "lng": 573,
+    "id": "usr-j3x0zvd",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2529,
+    "lng": 460,
+    "id": "usr-tsiiw77",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2461,
+    "lng": 706,
+    "id": "usr-gnr2i1j",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2473,
+    "lng": 750,
+    "id": "usr-hr9n09v",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2430,
+    "lng": 730,
+    "id": "usr-r32o90n",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2352,
+    "lng": 306,
+    "id": "usr-6drmkml",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2391,
+    "lng": 342,
+    "id": "usr-bgzj0sc",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2289,
+    "lng": 525,
+    "id": "usr-nowq358",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2309,
+    "lng": 568,
+    "id": "usr-exnl7z1",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2285,
+    "lng": 662,
+    "id": "usr-k0n21fx",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2255,
+    "lng": 669,
+    "id": "usr-1nwmjxz",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2240,
+    "lng": 878,
+    "id": "usr-rxwflu0",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2278,
+    "lng": 943,
+    "id": "usr-78jkn4u",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2353,
+    "lng": 926,
+    "id": "usr-ft8i68i",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2345,
+    "lng": 957,
+    "id": "usr-xs46yzr",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2287,
+    "lng": 1155,
+    "id": "usr-2ys7el3",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2252,
+    "lng": 1138,
+    "id": "usr-zovxz4j",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2322,
+    "lng": 1277,
+    "id": "usr-fbdzom3",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2307,
+    "lng": 1253,
+    "id": "usr-2cxiuis",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2430,
+    "lng": 1286,
+    "id": "usr-juyg274",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2540,
+    "lng": 1206,
+    "id": "usr-cgpcu65",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2051,
+    "lng": 1065,
+    "id": "usr-d9pozw0",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2007,
+    "lng": 1076,
+    "id": "usr-zym0d50",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2031,
+    "lng": 1123,
+    "id": "usr-29xl3oz",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1940,
+    "lng": 1092,
+    "id": "usr-zbwllh7",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1912,
+    "lng": 1050,
+    "id": "usr-3ut1lqt",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1856,
+    "lng": 831,
+    "id": "usr-avvug40",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2014,
+    "lng": 696,
+    "id": "usr-wjbqp68",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2021,
+    "lng": 647,
+    "id": "usr-n5i0rgo",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1906,
+    "lng": 476,
+    "id": "usr-x94b013",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1876,
+    "lng": 453,
+    "id": "usr-63srkbh",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1841,
+    "lng": 427,
+    "id": "usr-7ks9izs",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1859,
+    "lng": 378,
+    "id": "usr-y43yjpu",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1792,
+    "lng": 478,
+    "id": "usr-9qbkryq",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1750,
+    "lng": 566,
+    "id": "usr-63jlmxk",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1685,
+    "lng": 752,
+    "id": "usr-saxa4dd",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1642,
+    "lng": 351,
+    "id": "usr-o8co7aw",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1802,
+    "lng": 208,
+    "id": "usr-cxzesat",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1780,
+    "lng": 235,
+    "id": "usr-emn7j3l",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1486,
+    "lng": 1129,
+    "id": "usr-50p1599",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1469,
+    "lng": 1091,
+    "id": "usr-r6l3ja5",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1447,
+    "lng": 1102,
+    "id": "usr-nkuk1gj",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1426,
+    "lng": 1008,
+    "id": "usr-bmd5ksc",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1373,
+    "lng": 1025,
+    "id": "usr-02muucz",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1216,
+    "lng": 985,
+    "id": "usr-9lavjzi",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1189,
+    "lng": 967,
+    "id": "usr-laptp4k",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1157,
+    "lng": 730,
+    "id": "usr-o5y2x4a",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1217,
+    "lng": 611,
+    "id": "usr-104onq0",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1178,
+    "lng": 621,
+    "id": "usr-uft8gxz",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1084,
+    "lng": 668,
+    "id": "usr-69wissm",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1065,
+    "lng": 640,
+    "id": "usr-dtk3m28",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1044,
+    "lng": 664,
+    "id": "usr-9vtqizy",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1218,
+    "lng": 386,
+    "id": "usr-w7ap4mc",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1209,
+    "lng": 357,
+    "id": "usr-mag60ch",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 951,
+    "lng": 1017,
+    "id": "usr-o0qxsg2",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 909,
+    "lng": 1005,
+    "id": "usr-hmv6nqc",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 825,
+    "lng": 755,
+    "id": "usr-zz1sfxk",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 785,
+    "lng": 742,
+    "id": "usr-onrhaz0",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 768,
+    "lng": 752,
+    "id": "usr-ny2dwhy",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 796,
+    "lng": 782,
+    "id": "usr-gzzeuom",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 770,
+    "lng": 794,
+    "id": "usr-rkxg0d5",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 750,
+    "lng": 822,
+    "id": "usr-nh4bctl",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 715,
+    "lng": 820,
+    "id": "usr-dl0a759",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 733,
+    "lng": 725,
+    "id": "usr-hpe8n8u",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 741,
+    "lng": 706,
+    "id": "usr-3wjampd",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 700,
+    "lng": 725,
+    "id": "usr-k5xeowk",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 740,
+    "lng": 966,
+    "id": "usr-x8q1z9c",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 604,
+    "lng": 864,
+    "id": "usr-s0yvrlx",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 469,
+    "lng": 883,
+    "id": "usr-isceroc",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 484,
+    "lng": 944,
+    "id": "usr-4ymo6n2",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 524,
+    "lng": 966,
+    "id": "usr-kvs14vz",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 647,
+    "lng": 1073,
+    "id": "usr-a32rwos",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 724,
+    "lng": 1124,
+    "id": "usr-nvf84z6",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 609,
+    "lng": 1214,
+    "id": "usr-wbcupym",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 586,
+    "lng": 1296,
+    "id": "usr-p9gjs6j",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 528,
+    "lng": 1263,
+    "id": "usr-sy83yzn",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 828,
+    "lng": 1793,
+    "id": "usr-gb81ddg",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 794,
+    "lng": 1716,
+    "id": "usr-sor5amh",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 656,
+    "lng": 1472,
+    "id": "usr-i5hnoah",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 699,
+    "lng": 1615,
+    "id": "usr-prswzph",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 655,
+    "lng": 1630,
+    "id": "usr-btr2lzb",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 608,
+    "lng": 1630,
+    "id": "usr-5xmm0um",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 506,
+    "lng": 1620,
+    "id": "usr-avjs6gc",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 344,
+    "lng": 1829,
+    "id": "usr-1kkcrn5",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 494,
+    "lng": 1945,
+    "id": "usr-prnort7",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 435,
+    "lng": 1988,
+    "id": "usr-ue39xww",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 586,
+    "lng": 1889,
+    "id": "usr-ant5gd0",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 629,
+    "lng": 1930,
+    "id": "usr-ci7l1ll",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 884,
+    "lng": 2082,
+    "id": "usr-n9tles9",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 896,
+    "lng": 2130,
+    "id": "usr-nk5o7t3",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 865,
+    "lng": 2131,
+    "id": "usr-vzqluf0",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 853,
+    "lng": 2166,
+    "id": "usr-5nivzd4",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 809,
+    "lng": 2118,
+    "id": "usr-11dfl7v",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 798,
+    "lng": 2158,
+    "id": "usr-finyguj",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 690,
+    "lng": 2312,
+    "id": "usr-bhutl7x",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 661,
+    "lng": 2146,
+    "id": "usr-o2aj78c",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 598,
+    "lng": 2173,
+    "id": "usr-rqkfvuh",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 959,
+    "lng": 2324,
+    "id": "usr-6nwwqnf",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 916,
+    "lng": 2352,
+    "id": "usr-3nhrsqp",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 894,
+    "lng": 2369,
+    "id": "usr-5kvbmpp",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 850,
+    "lng": 2402,
+    "id": "usr-rabp37u",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 785,
+    "lng": 2455,
+    "id": "usr-h75e5jb",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 410,
+    "lng": 2289,
+    "id": "usr-or8ud5r",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 405,
+    "lng": 2265,
+    "id": "usr-327bnu4",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 372,
+    "lng": 2283,
+    "id": "usr-frjgr9m",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 390,
+    "lng": 2188,
+    "id": "usr-8vqsney",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 379,
+    "lng": 2146,
+    "id": "usr-k9vcg3e",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 294,
+    "lng": 2213,
+    "id": "usr-ie3p1su",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 283,
+    "lng": 2173,
+    "id": "usr-41q6mht",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 503,
+    "lng": 2612,
+    "id": "usr-1nvw1xu",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 484,
+    "lng": 2590,
+    "id": "usr-k3f3k9m",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 480,
+    "lng": 2663,
+    "id": "usr-l4kqrqv",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 327,
+    "lng": 2661,
+    "id": "usr-aa695nx",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 352,
+    "lng": 2695,
+    "id": "usr-p3t07ck",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 375,
+    "lng": 2731,
+    "id": "usr-u4kozme",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 421,
+    "lng": 2795,
+    "id": "usr-usgqmfy",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 445,
+    "lng": 2827,
+    "id": "usr-rw4vqcd",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 461,
+    "lng": 2857,
+    "id": "usr-9ywdhf1",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 616,
+    "lng": 2964,
+    "id": "usr-15yf19s",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 587,
+    "lng": 2997,
+    "id": "usr-8fr8p6f",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 712,
+    "lng": 3050,
+    "id": "usr-erciyio",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 691,
+    "lng": 3080,
+    "id": "usr-1z7vknc",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 659,
+    "lng": 2643,
+    "id": "usr-n9598dz",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 681,
+    "lng": 2727,
+    "id": "usr-2j45bxp",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 830,
+    "lng": 2820,
+    "id": "usr-klt3yaf",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 794,
+    "lng": 2808,
+    "id": "usr-6sggvc1",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1298,
+    "lng": 3185,
+    "id": "usr-027icsn",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1201,
+    "lng": 2823,
+    "id": "usr-q8qmv0g",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1132,
+    "lng": 2879,
+    "id": "usr-xewnsie",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1042,
+    "lng": 2899,
+    "id": "usr-zuzkszw",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1019,
+    "lng": 2894,
+    "id": "usr-xwzsqn4",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1015,
+    "lng": 2921,
+    "id": "usr-m56hkqm",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1038,
+    "lng": 2925,
+    "id": "usr-3o4pmqv",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1124,
+    "lng": 2982,
+    "id": "usr-sfii5r6",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1278,
+    "lng": 2571,
+    "id": "usr-0lgvchn",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1244,
+    "lng": 2451,
+    "id": "usr-r6b9u8l",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1451,
+    "lng": 3108,
+    "id": "usr-mv6bc8e",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1659,
+    "lng": 2673,
+    "id": "usr-drlg10d",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1643,
+    "lng": 2714,
+    "id": "usr-az1f5fl",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1630,
+    "lng": 2689,
+    "id": "usr-irg3gbn",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1397,
+    "lng": 2710,
+    "id": "usr-7od15xb",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1396,
+    "lng": 2601,
+    "id": "usr-rsi9rgi",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1981,
+    "lng": 3065,
+    "id": "usr-r2rup0f",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1883,
+    "lng": 3091,
+    "id": "usr-4kysd5m",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1857,
+    "lng": 2996,
+    "id": "usr-jdw07g3",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1922,
+    "lng": 2966,
+    "id": "usr-zo5hy5p",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1975,
+    "lng": 2960,
+    "id": "usr-dwoh9xg",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2148,
+    "lng": 3085,
+    "id": "usr-gm2t7ka",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2061,
+    "lng": 2758,
+    "id": "usr-a2fqne9",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2176,
+    "lng": 2769,
+    "id": "usr-y5i3r2j",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2197,
+    "lng": 2794,
+    "id": "usr-t2vscs6",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2198,
+    "lng": 2832,
+    "id": "usr-v551z8l",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2354,
+    "lng": 3224,
+    "id": "usr-99smdr2",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2512,
+    "lng": 3126,
+    "id": "usr-m7sy5gv",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2521,
+    "lng": 3103,
+    "id": "usr-e7z8kxy",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2607,
+    "lng": 2718,
+    "id": "usr-7xbgeoy",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2595,
+    "lng": 2682,
+    "id": "usr-bxg1c8w",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2489,
+    "lng": 2527,
+    "id": "usr-77vtr68",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2827,
+    "lng": 2695,
+    "id": "usr-92hkguk",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2823,
+    "lng": 2655,
+    "id": "usr-ff1wylb",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2852,
+    "lng": 2845,
+    "id": "usr-jtscaei",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2741,
+    "lng": 2275,
+    "id": "usr-l0q6tjr",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2840,
+    "lng": 2422,
+    "id": "usr-m94ej1y",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2889,
+    "lng": 2498,
+    "id": "usr-vkyyiz7",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2911,
+    "lng": 2461,
+    "id": "usr-1wt2v9b",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2952,
+    "lng": 2472,
+    "id": "usr-fei71bm",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2930,
+    "lng": 2520,
+    "id": "usr-t0y6d9i",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1873,
+    "lng": 1150,
+    "id": "usr-y3ceiag",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1872,
+    "lng": 1259,
+    "id": "usr-8t9nrfv",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1849,
+    "lng": 1291,
+    "id": "usr-twn2rxi",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1835,
+    "lng": 1333,
+    "id": "usr-ajfejny",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1830,
+    "lng": 1378,
+    "id": "usr-zsvrgz0",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2131,
+    "lng": 1316,
+    "id": "usr-f4bgf4s",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2115,
+    "lng": 1334,
+    "id": "usr-0mb5xas",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2108,
+    "lng": 1285,
+    "id": "usr-4u8l5ee",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2167,
+    "lng": 1473,
+    "id": "usr-wrunzg5",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2067,
+    "lng": 1560,
+    "id": "usr-bozt3k4",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1745,
+    "lng": 1264,
+    "id": "usr-4h4x2fn",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1465,
+    "lng": 1264,
+    "id": "usr-swwrmna",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1367,
+    "lng": 1283,
+    "id": "usr-47srg8n",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1313,
+    "lng": 1329,
+    "id": "usr-a5366fo",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1317,
+    "lng": 1370,
+    "id": "usr-n3m4dsr",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1093,
+    "lng": 1519,
+    "id": "usr-n39i4zu",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1016,
+    "lng": 1518,
+    "id": "usr-0mcsa3d",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1087,
+    "lng": 1631,
+    "id": "usr-ipzzflx",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1438,
+    "lng": 1971,
+    "id": "usr-7i34xne",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1469,
+    "lng": 2021,
+    "id": "usr-0a4ic8e",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1403,
+    "lng": 2070,
+    "id": "usr-6c03wd5",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1365,
+    "lng": 2024,
+    "id": "usr-f2k6xh6",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1499,
+    "lng": 2199,
+    "id": "usr-anaka4t",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1704,
+    "lng": 1958,
+    "id": "usr-odoo8xx",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1928,
+    "lng": 1912,
+    "id": "usr-bjwyp3a",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1940,
+    "lng": 1764,
+    "id": "usr-kwj12re",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2040,
+    "lng": 2062,
+    "id": "usr-dgujfph",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1989,
+    "lng": 2059,
+    "id": "usr-yj2c2ls",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1941,
+    "lng": 2091,
+    "id": "usr-4iar57h",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2078,
+    "lng": 1832,
+    "id": "usr-e86d794",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2165,
+    "lng": 2401,
+    "id": "usr-gu2yd7i",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2208,
+    "lng": 2405,
+    "id": "usr-v88ihkn",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2222,
+    "lng": 2377,
+    "id": "usr-52acrkb",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2286,
+    "lng": 2253,
+    "id": "usr-zfjqpfz",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2571,
+    "lng": 2416,
+    "id": "usr-3t88y1g",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2542,
+    "lng": 2443,
+    "id": "usr-7ydx6sl",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2522,
+    "lng": 2403,
+    "id": "usr-izbuyyt",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2707,
+    "lng": 2657,
+    "id": "usr-dw8560q",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2218,
+    "lng": 2786,
+    "id": "usr-wxxi4b9",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 2239,
+    "lng": 3090,
+    "id": "usr-f888c8t",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1763,
+    "lng": 2199,
+    "id": "usr-j0t3ekc",
+    "locked": true
+  },
+  {
+    "type": "bench",
+    "label": "bench marker",
+    "lat": 1746,
+    "lng": 2245,
+    "id": "usr-3aa8p37",
+    "locked": true
+  },
+  {
+    "type": "elevator",
+    "label": "elevator marker",
+    "lat": 2868,
+    "lng": 1728,
+    "id": "usr-vs7i7lp",
+    "locked": true
+  },
+  {
+    "type": "elevator",
+    "label": "elevator marker",
+    "lat": 3115,
+    "lng": 950,
+    "id": "usr-xop2gbw",
+    "locked": true
+  },
+  {
+    "type": "elevator",
+    "label": "elevator marker",
+    "lat": 2504,
+    "lng": 1566,
+    "id": "usr-ujut98w",
+    "locked": true
+  },
+  {
+    "type": "elevator",
+    "label": "elevator marker",
+    "lat": 2242,
+    "lng": 1357,
+    "id": "usr-u1ply1u",
+    "locked": true
+  },
+  {
+    "type": "elevator",
+    "label": "elevator marker",
+    "lat": 2177,
+    "lng": 886,
+    "id": "usr-are6pqy",
+    "locked": true
+  },
+  {
+    "type": "elevator",
+    "label": "elevator marker",
+    "lat": 2824,
+    "lng": 2279,
+    "id": "usr-ngsaap7",
+    "locked": true
+  },
+  {
+    "type": "elevator",
+    "label": "elevator marker",
+    "lat": 2294,
+    "lng": 450,
+    "id": "usr-9ng47la",
+    "locked": true
+  },
+  {
+    "type": "elevator",
+    "label": "elevator marker",
+    "lat": 1591,
+    "lng": 1055,
+    "id": "usr-uayt4zt",
+    "locked": true
+  },
+  {
+    "type": "elevator",
+    "label": "elevator marker",
+    "lat": 1406,
+    "lng": 834,
+    "id": "usr-gshiwqr",
+    "locked": true
+  },
+  {
+    "type": "elevator",
+    "label": "elevator marker",
+    "lat": 666,
+    "lng": 638,
+    "id": "usr-nbmk8iu",
+    "locked": true
+  },
+  {
+    "type": "elevator",
+    "label": "elevator marker",
+    "lat": 878,
+    "lng": 1430,
+    "id": "usr-263j4qf",
+    "locked": true
+  },
+  {
+    "type": "elevator",
+    "label": "elevator marker",
+    "lat": 255,
+    "lng": 1303,
+    "id": "usr-r1opqye",
+    "locked": true
+  },
+  {
+    "type": "elevator",
+    "label": "elevator marker",
+    "lat": 356,
+    "lng": 1831,
+    "id": "usr-j1a8ctc",
+    "locked": true
+  },
+  {
+    "type": "elevator",
+    "label": "elevator marker",
+    "lat": 752,
+    "lng": 1796,
+    "id": "usr-2bk47if",
+    "locked": true
+  },
+  {
+    "type": "elevator",
+    "label": "elevator marker",
+    "lat": 840,
+    "lng": 1931,
+    "id": "usr-0djzj3v",
+    "locked": true
+  },
+  {
+    "type": "elevator",
+    "label": "elevator marker",
+    "lat": 900,
+    "lng": 2011,
+    "id": "usr-qe06zd2",
+    "locked": true
+  },
+  {
+    "type": "elevator",
+    "label": "elevator marker",
+    "lat": 1009,
+    "lng": 2481,
+    "id": "usr-gurhvvj",
+    "locked": true
+  },
+  {
+    "type": "elevator",
+    "label": "elevator marker",
+    "lat": 616,
+    "lng": 2856,
+    "id": "usr-3sntqa5",
+    "locked": true
+  },
+  {
+    "type": "elevator",
+    "label": "elevator marker",
+    "lat": 1745,
+    "lng": 2654,
+    "id": "usr-irnz7zf",
+    "locked": true
+  },
+  {
+    "type": "elevator",
+    "label": "elevator marker",
+    "lat": 1655,
+    "lng": 3343,
+    "id": "usr-gffp3p4",
+    "locked": true
+  },
+  {
+    "type": "elevator",
+    "label": "elevator marker",
+    "lat": 2202,
+    "lng": 3117,
+    "id": "usr-zjpk75v",
+    "locked": true
+  },
+  {
+    "type": "elevator",
+    "label": "elevator marker",
+    "lat": 2483,
+    "lng": 2397,
+    "id": "usr-wrutpdz",
+    "locked": true
+  },
+  {
+    "type": "elevator",
+    "label": "elevator marker",
+    "lat": 2888,
+    "lng": 2638,
+    "id": "usr-fyurcxt",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 3277,
+    "lng": 1888,
+    "id": "usr-9qbxgnf",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 3274,
+    "lng": 2178,
+    "id": "usr-vd9po45",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 3257,
+    "lng": 2256,
+    "id": "usr-6iamf01",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 3121,
+    "lng": 1334,
+    "id": "usr-ltp75vc",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 3117,
+    "lng": 1167,
+    "id": "usr-fns62f6",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 3162,
+    "lng": 1078,
+    "id": "usr-b5x0u8q",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2872,
+    "lng": 1172,
+    "id": "usr-do95lce",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2837,
+    "lng": 1554,
+    "id": "usr-72ckt88",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2799,
+    "lng": 1581,
+    "id": "usr-vqrfchs",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2684,
+    "lng": 1369,
+    "id": "usr-2916su4",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2652,
+    "lng": 1488,
+    "id": "usr-jzxng5k",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2902,
+    "lng": 740,
+    "id": "usr-39z3crh",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2861,
+    "lng": 676,
+    "id": "usr-nnvx2co",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2828,
+    "lng": 683,
+    "id": "usr-wn4rzqr",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2797,
+    "lng": 635,
+    "id": "usr-71ht89t",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2391,
+    "lng": 1225,
+    "id": "usr-ehbjkrl",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2430,
+    "lng": 1040,
+    "id": "usr-s85hv0a",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2343,
+    "lng": 981,
+    "id": "usr-fmnwev3",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2242,
+    "lng": 1053,
+    "id": "usr-c088e2g",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2194,
+    "lng": 1378,
+    "id": "usr-wqxtgc2",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2363,
+    "lng": 1584,
+    "id": "usr-cf5jeak",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2311,
+    "lng": 1677,
+    "id": "usr-cm7vbqw",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2480,
+    "lng": 849,
+    "id": "usr-fm6du51",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2526,
+    "lng": 722,
+    "id": "usr-7zs5gxm",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2517,
+    "lng": 750,
+    "id": "usr-tjoq4iz",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2675,
+    "lng": 692,
+    "id": "usr-btrahpd",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2634,
+    "lng": 634,
+    "id": "usr-kujm3um",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2675,
+    "lng": 571,
+    "id": "usr-yx2aq9q",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2482,
+    "lng": 616,
+    "id": "usr-lzzz9xn",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2330,
+    "lng": 780,
+    "id": "usr-198rf2f",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1984,
+    "lng": 530,
+    "id": "usr-2q1smmb",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1921,
+    "lng": 489,
+    "id": "usr-1g0512b",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1833,
+    "lng": 406,
+    "id": "usr-589sndz",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1739,
+    "lng": 234,
+    "id": "usr-abriwcl",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1710,
+    "lng": 487,
+    "id": "usr-rc8ptwp",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1651,
+    "lng": 500,
+    "id": "usr-b228ta8",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1643,
+    "lng": 306,
+    "id": "usr-1who7s3",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1521,
+    "lng": 444,
+    "id": "usr-x44nwfw",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1430,
+    "lng": 303,
+    "id": "usr-l1v7vwd",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1633,
+    "lng": 752,
+    "id": "usr-7o6qytx",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1716,
+    "lng": 1178,
+    "id": "usr-qytvb8c",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1704,
+    "lng": 1387,
+    "id": "usr-45fqybe",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1664,
+    "lng": 1258,
+    "id": "usr-vsu5w4h",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1592,
+    "lng": 1462,
+    "id": "usr-zup7953",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1533,
+    "lng": 1490,
+    "id": "usr-5n1q1ij",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1541,
+    "lng": 1360,
+    "id": "usr-r8aeqg5",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1461,
+    "lng": 1150,
+    "id": "usr-qtn1rs7",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1344,
+    "lng": 905,
+    "id": "usr-65prcr1",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1306,
+    "lng": 870,
+    "id": "usr-xx89zgc",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1293,
+    "lng": 823,
+    "id": "usr-zollzzo",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1257,
+    "lng": 699,
+    "id": "usr-qdi3v9k",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1177,
+    "lng": 680,
+    "id": "usr-6v9gx9x",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1060,
+    "lng": 705,
+    "id": "usr-olnjexm",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1014,
+    "lng": 701,
+    "id": "usr-5pr13ee",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 905,
+    "lng": 964,
+    "id": "usr-d6a5n60",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 837,
+    "lng": 967,
+    "id": "usr-siego4s",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 640,
+    "lng": 705,
+    "id": "usr-i2vcex8",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 618,
+    "lng": 1066,
+    "id": "usr-3hwcw7j",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 781,
+    "lng": 1196,
+    "id": "usr-e0ytbkp",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 783,
+    "lng": 1398,
+    "id": "usr-huvmbfz",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 451,
+    "lng": 1129,
+    "id": "usr-144ta9w",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 400,
+    "lng": 1262,
+    "id": "usr-phxsxqf",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 365,
+    "lng": 1152,
+    "id": "usr-wpv76w7",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 328,
+    "lng": 1342,
+    "id": "usr-p8rv60m",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 247,
+    "lng": 1429,
+    "id": "usr-nwof9lf",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 377,
+    "lng": 1684,
+    "id": "usr-at8o8bn",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 287,
+    "lng": 1705,
+    "id": "usr-ps6jtan",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 213,
+    "lng": 1646,
+    "id": "usr-6n9x4eg",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 462,
+    "lng": 1826,
+    "id": "usr-hyjzo3b",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 388,
+    "lng": 1904,
+    "id": "usr-hevajnz",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 376,
+    "lng": 1843,
+    "id": "usr-bwr3s7d",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 289,
+    "lng": 1986,
+    "id": "usr-fw61fe7",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 251,
+    "lng": 1986,
+    "id": "usr-hjtutzb",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 462,
+    "lng": 2040,
+    "id": "usr-on0lpdj",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 443,
+    "lng": 2202,
+    "id": "usr-18trp20",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 405,
+    "lng": 2214,
+    "id": "usr-44sq1py",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 421,
+    "lng": 2374,
+    "id": "usr-u7xy89y",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 366,
+    "lng": 2353,
+    "id": "usr-o2ij31r",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 318,
+    "lng": 2353,
+    "id": "usr-jx87zb8",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 520,
+    "lng": 2221,
+    "id": "usr-ecft56v",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 553,
+    "lng": 2228,
+    "id": "usr-ythlvrx",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 589,
+    "lng": 2255,
+    "id": "usr-md9ea8e",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 567,
+    "lng": 2313,
+    "id": "usr-4h7bq8r",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 578,
+    "lng": 2451,
+    "id": "usr-sfhuxjn",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 455,
+    "lng": 2516,
+    "id": "usr-kj66bo9",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 654,
+    "lng": 2516,
+    "id": "usr-sol6vo0",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 692,
+    "lng": 2331,
+    "id": "usr-1tjegsn",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 677,
+    "lng": 2322,
+    "id": "usr-i1vmlnr",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 887,
+    "lng": 2202,
+    "id": "usr-pj75gop",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 892,
+    "lng": 2101,
+    "id": "usr-m12cktk",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 932,
+    "lng": 2784,
+    "id": "usr-ikifx2n",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1146,
+    "lng": 3134,
+    "id": "usr-cf8llbx",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 988,
+    "lng": 3079,
+    "id": "usr-ryan5gl",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 960,
+    "lng": 3114,
+    "id": "usr-hvft3xu",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 969,
+    "lng": 2970,
+    "id": "usr-rd2tevg",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 926,
+    "lng": 2848,
+    "id": "usr-ocayxkg",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1505,
+    "lng": 3128,
+    "id": "usr-ztpxj8i",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1469,
+    "lng": 3141,
+    "id": "usr-vdxj5v7",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1815,
+    "lng": 3285,
+    "id": "usr-2b5bs0y",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1816,
+    "lng": 2982,
+    "id": "usr-uxhnfpr",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1863,
+    "lng": 2666,
+    "id": "usr-poezcck",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1859,
+    "lng": 2617,
+    "id": "usr-gasgco7",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1832,
+    "lng": 2534,
+    "id": "usr-4j028re",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1811,
+    "lng": 2447,
+    "id": "usr-m158bpb",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1837,
+    "lng": 2327,
+    "id": "usr-bypurx0",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1794,
+    "lng": 2233,
+    "id": "usr-eabibvx",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1766,
+    "lng": 2269,
+    "id": "usr-uebi6gz",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1576,
+    "lng": 2059,
+    "id": "usr-1qlw1z9",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1464,
+    "lng": 2156,
+    "id": "usr-q1upkl0",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1451,
+    "lng": 2319,
+    "id": "usr-jp9seo2",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1440,
+    "lng": 2369,
+    "id": "usr-51jszt0",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1413,
+    "lng": 1886,
+    "id": "usr-koybd7e",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1406,
+    "lng": 1586,
+    "id": "usr-gjp93vu",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1415,
+    "lng": 1660,
+    "id": "usr-p8awm24",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1341,
+    "lng": 1674,
+    "id": "usr-lwtdtg9",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1254,
+    "lng": 1673,
+    "id": "usr-y633f71",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1206,
+    "lng": 1614,
+    "id": "usr-029x7ie",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 995,
+    "lng": 1510,
+    "id": "usr-1gleh1g",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 933,
+    "lng": 1632,
+    "id": "usr-p1nnbkc",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 865,
+    "lng": 1661,
+    "id": "usr-uigkbq6",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 864,
+    "lng": 1848,
+    "id": "usr-cz68x8w",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 1156,
+    "lng": 2496,
+    "id": "usr-wnk78hp",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2234,
+    "lng": 2952,
+    "id": "usr-uviofca",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2336,
+    "lng": 3100,
+    "id": "usr-jey67vu",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2363,
+    "lng": 3137,
+    "id": "usr-ximm41s",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2383,
+    "lng": 3115,
+    "id": "usr-69ylcm6",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2552,
+    "lng": 3098,
+    "id": "usr-8r7gjm0",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2816,
+    "lng": 2884,
+    "id": "usr-r5jqh4c",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2520,
+    "lng": 2558,
+    "id": "usr-xhjqlis",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2285,
+    "lng": 2495,
+    "id": "usr-o98uy8q",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2382,
+    "lng": 2294,
+    "id": "usr-julm43g",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2342,
+    "lng": 2329,
+    "id": "usr-wioqdqd",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2163,
+    "lng": 2241,
+    "id": "usr-vo9n2je",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2378,
+    "lng": 2004,
+    "id": "usr-c9n0mbv",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2340,
+    "lng": 1969,
+    "id": "usr-6d6pj29",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2148,
+    "lng": 1930,
+    "id": "usr-mdv2by3",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2165,
+    "lng": 1851,
+    "id": "usr-9ti8q2s",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2683,
+    "lng": 2042,
+    "id": "usr-jkwl8s5",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2867,
+    "lng": 2078,
+    "id": "usr-5amp8f7",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 2980,
+    "lng": 2332,
+    "id": "usr-3b0zj3c",
+    "locked": true
+  },
+  {
+    "type": "ladder",
+    "label": "ladder marker",
+    "lat": 3126,
+    "lng": 2370,
+    "id": "usr-mlra09g",
+    "locked": true
+  }
+]

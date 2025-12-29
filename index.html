@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lumiose City Interactive Map Editor</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <link rel="stylesheet" href="styles.css" />
+
+    <style>
+      @keyframes text-pulse {
+        0%,
+        100% {
+          /* Subtle initial glow */
+          text-shadow: 0 0 8px rgb(255, 247, 3);
+        }
+        50% {
+          /* Intense peak glow */
+          text-shadow: 0 0 20px rgb(255, 247, 3), 0 0 30px rgb(255, 247, 3);
+        }
+      }
+
+      .glow-text {
+        font-size: xx-small;
+        color: #fae903; /* Solid text color */
+        background: none; /* Ensures no box background exists */
+        animation: text-pulse 2s infinite ease-in-out;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app">
+      <div id="map"></div>
+      <div id="control-panel" class="panel">
+        <div class="panel-header">
+          <div>
+            <h1>Lumiose City Interactive Map</h1>
+            <p1>Optimized for</p1>
+            <span
+              class="text-glow"
+              style="animation: text-pulse 2s infinite ease-in-out"
+            >
+              ✨Shiny✨</span
+            >
+            <p1>hunting!</p1>
+            <div>
+              <span class="hint"
+                ><p2 style="color: rgb(51, 140, 156); font-size: xx-small"
+                  >Drag the
+                  <span style="color: #200ee9; font-weight: bold">BLUE</span>
+                  dot to mark spawn distances</p2
+                ></span
+              >
+            </div>
+            <div class="legend">
+              <span class="legend-dot green"></span>
+              <span class="legend-text">50 units</span>
+              <button id="toggle-ring-50" class="pill mini active">Hide</button>
+              &nbsp;·&nbsp;
+              <span class="legend-dot red"></span>
+              <span class="legend-text">70 units</span>
+              <button id="toggle-ring-70" class="pill mini active">Hide</button>
+            </div>
+          </div>
+          <button id="panel-toggle" class="ghost" aria-label="Toggle panel">
+            Collapse
+          </button>
+        </div>
+
+        <div class="panel-body">
+          <section class="panel-section hidden" id="map-config">
+            <div class="section-title">Map & Scale (Locked)</div>
+            <div class="hint" id="image-meta">Loading map…</div>
+            <div class="field-row compact">
+              <label>Pixels per unit</label>
+              <div class="pill-readout" id="ppu-readout">3.2689</div>
+            </div>
+            <div class="field-row compact">
+              <label>Last measure</label>
+              <div class="measure-readouts">
+                <span id="measure-pixels">-</span> px ·
+                <span id="measure-units">-</span> units
+              </div>
+            </div>
+          </section>
+
+          <section class="panel-section" id="modes">
+            <div class="section-title">
+              Modes<br />
+              <span style="color: gray; inline-size: scale(0.7)"
+                >Enable a mode to interact with the map</span
+              >
+            </div>
+            <div class="pill-row">
+              <button id="measure-mode" class="pill">Measure (M)</button>
+              <button id="add-mode" class="pill">Add (P)</button>
+              <button id="edit-mode" class="pill">Edit (E)</button>
+              <button id="delete-mode" class="pill danger hidden">
+                Delete (D)
+              </button>
+              <button id="zone-mode" class="pill hidden">Wild Zone</button>
+            </div>
+          </section>
+
+          <section class="panel-section" id="add-settings">
+            <div class="section-title">
+              Custom Markers
+              <br />
+              <span style="color: gray"
+                >Place custom markers on the map to track locations</span
+              ><br />
+            </div>
+            <div class="field-row compact">
+              <label for="marker-label">Label</label>
+              <input type="text" id="marker-label" placeholder="Marker label" />
+            </div>
+            <div class="field-row compact">
+              <label>Marker Type</label>
+              <div class="pill-row dual">
+                <button id="type-circle" class="pill toggle-off">Circle</button>
+                <button id="type-sprite" class="pill toggle-off">
+                  Pokémon Marker
+                </button>
+              </div>
+            </div>
+            <div class="field-row compact">
+              <label for="marker-color">Circle Color</label>
+              <input
+                type="color"
+                id="marker-color"
+                value="#4fc3f7"
+                title="Circle colors"
+              />
+            </div>
+            <div class="field-row compact">
+              <label for="sticker-select">Pokémon Marker</label>
+              <select id="sticker-select"></select>
+            </div>
+            <div class="field-row compact hidden">
+              <label for="zone-label">Zone label</label>
+              <input type="text" id="zone-label" placeholder="Wild Zone name" />
+            </div>
+            <div class="field-row compact hidden">
+              <label for="zone-number">Zone #</label>
+              <input
+                type="number"
+                id="zone-number"
+                min="1"
+                max="99"
+                value="1"
+              />
+            </div>
+          </section>
+
+          <section class="panel-section" id="layers">
+            <div class="section-title">Layer Toggles</div>
+            <div class="pill-row layer-pills">
+              <button id="toggle-users" class="pill active">
+                User markers
+              </button>
+              <button id="layer-benches" class="pill active">Benches</button>
+              <button id="layer-ladders" class="pill active">Ladders</button>
+              <button id="layer-elevators" class="pill active">
+                Elevators
+              </button>
+              <button id="layer-zones" class="pill active">Wild Zones</button>
+            </div>
+          </section>
+
+          <section class="panel-section hidden" id="shiny-radius hidden">
+            <div class="section-title hidden">Shiny Radius</div>
+            <div class="hint hidden">
+              Always visible. Drag the teal dot on the map; rings follow your
+              scale (50u and 70u).
+            </div>
+            <button id="shiny-recenter" class="secondary hidden">
+              Recenter radius
+            </button>
+          </section>
+
+          <section class="panel-section hidden" id="snap">
+            <div class="section-title">Snap</div>
+            <div class="field-row toggles">
+              <label
+                ><input type="checkbox" id="snap-toggle" checked /> Snap to
+                grid</label
+              >
+              <label for="grid-size">Grid size</label>
+              <select id="grid-size">
+                <option value="0.5">0.5</option>
+                <option value="1" selected>1</option>
+                <option value="2">2</option>
+                <option value="5">5</option>
+              </select>
+            </div>
+          </section>
+
+          <section class="panel-section" id="export">
+            <div class="section-title">
+              Import / Export<br /><em style="font-weight: 100; color: grey"
+                >Download markers as JSON. Data saved to local storage in your
+                browser. You can also import exported JSON to restore markers.
+              </em>
+            </div>
+            <div class="pill-row">
+              <button id="download-all" class="secondary hidden">
+                Download all
+              </button>
+              <button id="download-presets" class="secondary hidden">
+                Presets only
+              </button>
+              <button id="download-users" class="secondary">
+                Download Custom Markers (JSON)
+              </button>
+              <button id="copy-json" class="secondary">
+                Copy JSON to Clipboard
+              </button>
+              <button id="import-users" class="secondary">
+                Import Custom Markers
+              </button>
+              <input
+                type="file"
+                id="import-users-file"
+                accept="application/json,.json"
+                class="hidden"
+              />
+            </div>
+          </section>
+
+          <section class="panel-section" id="reset">
+            <div class="section-title">Reset</div>
+            <button id="reset-btn" class="danger">Reset markers…</button>
+          </section>
+
+          <section class="panel-section hidden" id="inspector">
+            <div class="section-title">Marker Inspector</div>
+            <div class="hint">
+              Select a marker to edit. Changes only apply in Edit mode.
+            </div>
+            <div class="field-row compact">
+              <label for="inspector-label">Label</label>
+              <input type="text" id="inspector-label" />
+            </div>
+            <div class="field-row compact">
+              <label for="inspector-type">Type</label>
+              <select id="inspector-type">
+                <option value="bench">Bench</option>
+                <option value="ladder">Ladder</option>
+                <option value="elevator">Elevator</option>
+                <option value="circle">Circle</option>
+                <option value="sprite">Sticker</option>
+              </select>
+              <input type="color" id="inspector-color" value="#4fc3f7" />
+            </div>
+            <div class="field-row compact hidden">
+              <label for="inspector-sticker">Sticker</label>
+              <select id="inspector-sticker"></select>
+            </div>
+            <button id="apply-inspector" class="secondary">Apply edits</button>
+          </section>
+
+          <section class="panel-section hidden" id="shortcuts">
+            <div class="section-title">Shortcuts</div>
+            <div class="hint">
+              M: Measure · P: Add · E: Edit · 1/2/3/4: Tool · Delete: remove
+              (Edit only)
+            </div>
+          </section>
+        </div>
+      </div>
+
+      <div id="reset-modal" class="modal" hidden>
+        <div class="modal-content">
+          <button
+            id="reset-close"
+            class="ghost modal-close"
+            aria-label="Close reset dialog"
+          >
+            ✕
+          </button>
+          <h3>Reset markers?</h3>
+          <p>
+            This will clear markers. By default, only user markers are removed.
+          </p>
+          <div class="modal-actions">
+            <button id="confirm-reset" class="danger">Yes, reset</button>
+            <button id="cancel-reset" class="secondary">Cancel</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="app.js"></script>
+  </body>
+</html>
