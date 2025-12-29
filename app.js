@@ -25,12 +25,12 @@ const App = (() => {
     ladder: 28,
     elevator: 28,
     circle: 18,
-    sprite: 34,
+    sprite: 50,
     shiny: 18,
   };
 
-const state = {
-  map: null,
+  const state = {
+    map: null,
     overlay: null,
     bounds: null,
     image: { url: "", width: 0, height: 0 },
@@ -51,17 +51,17 @@ const state = {
     editMode: false,
     deleteMode: false,
     measureMode: false,
-  currentTool: null,
+    currentTool: null,
     currentLabel: "",
     currentColor: "#4fc3f7",
     currentSticker: "",
-  data: {
-    presetMarkers: [],
-    userMarkers: [],
-    originalPresets: [],
-    zones: [],
-    customMarkers: [],
-  },
+    data: {
+      presetMarkers: [],
+      userMarkers: [],
+      originalPresets: [],
+      zones: [],
+      customMarkers: [],
+    },
     stickers: [],
     markersIndex: new Map(), // id -> {layer, data}
     selection: null,
@@ -73,7 +73,13 @@ const state = {
       group: null,
       lastTarget: null,
     },
-  shiny: { layer: null, marker: null, rings: [], center: null, visible: [true, true] },
+    shiny: {
+      layer: null,
+      marker: null,
+      rings: [],
+      center: null,
+      visible: [true, true],
+    },
     zonesLayer: null,
     zoneDrawing: {
       active: false,
@@ -954,7 +960,9 @@ const state = {
     if (updated.type === "circle" || updated.type === "sprite") {
       state.data.customMarkers.push(updated);
     } else {
-      const idx = state.data.customMarkers.findIndex((m) => m.id === updated.id);
+      const idx = state.data.customMarkers.findIndex(
+        (m) => m.id === updated.id
+      );
       if (idx >= 0) state.data.customMarkers.splice(idx, 1);
     }
     placeMarker(updated);
@@ -1113,8 +1121,7 @@ const state = {
     if (dom.markerColor) dom.markerColor.disabled = !isCircle;
     if (dom.stickerSelect) dom.stickerSelect.disabled = !isSprite;
     if (isSprite && dom.stickerSelect && !dom.stickerSelect.value) {
-      dom.stickerSelect.value =
-        state.currentSticker || state.stickers[0] || "";
+      dom.stickerSelect.value = state.currentSticker || state.stickers[0] || "";
     }
   };
 
@@ -1578,7 +1585,9 @@ const state = {
     }));
 
   const buildUserExport = () => {
-    const markers = (state.data.customMarkers || []).map(({ source, ...rest }) => rest);
+    const markers = (state.data.customMarkers || []).map(
+      ({ source, ...rest }) => rest
+    );
     return { markers };
   };
 
@@ -1620,7 +1629,9 @@ const state = {
           zones = parsed.zones || zones;
         }
         const normalizedMarkers = markers
-          .map((m) => normalizeMarker({ ...m, source: "user", locked: false }, "user"))
+          .map((m) =>
+            normalizeMarker({ ...m, source: "user", locked: false }, "user")
+          )
           .filter((m) => m.type === "circle" || m.type === "sprite");
         state.data.userMarkers = normalizedMarkers;
         state.data.customMarkers = normalizedMarkers.slice();
