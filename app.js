@@ -688,6 +688,8 @@ const App = (() => {
     if (markerData.type === "shiny") return; // shiny radius handled separately
     const group = state.layers[markerData.source]?.[markerData.type];
     if (!group) return;
+    const isLockedPreset =
+      markerData.locked || markerData.source === "preset";
     const marker = createLeafletMarker(markerData);
     marker.__id = markerData.id;
     marker.on("click", (e) => {
@@ -696,6 +698,7 @@ const App = (() => {
         e.originalEvent.stopPropagation();
         e.originalEvent.preventDefault();
       }
+      if (isLockedPreset) return;
       if (state.deleteMode) {
         deleteMarker(markerData.id);
         return;
@@ -722,7 +725,9 @@ const App = (() => {
       marker.setLatLng(snapped);
       updateMarkerPosition(markerData.id, snapped);
     });
-    marker.bindPopup(() => buildPopupContent(markerData));
+    if (!isLockedPreset) {
+      marker.bindPopup(() => buildPopupContent(markerData));
+    }
     group.addLayer(marker);
     const record = { marker, data: markerData, view: marker };
     state.markersIndex.set(markerData.id, record);
