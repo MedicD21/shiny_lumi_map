@@ -293,6 +293,34 @@ body {
   }
 }
 
+@media (max-width: 768px) {
+  body {
+    overflow: auto;
+    height: auto;
+  }
+  #app {
+    height: auto;
+  }
+  .panel {
+    width: calc(100% - 12px);
+    left: 6px;
+    right: 6px;
+    top: 8px;
+    max-height: none;
+  }
+  .panel-body {
+    padding: 12px 14px 16px;
+    gap: 12px;
+  }
+  .panel-section {
+    padding: 12px;
+  }
+  .pill-row button {
+    min-width: 110px;
+    flex: 1 1 45%;
+  }
+}
+
 .field-row.toggles label {
   font-size: 13px;
   color: var(--text);
