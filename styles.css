@@ -43,6 +43,7 @@ body {
   position: absolute;
   inset: 0;
   z-index: 1;
+  min-height: 100vh;
 }
 
 .hidden {
@@ -299,7 +300,7 @@ body {
     height: auto;
   }
   #app {
-    height: auto;
+    height: 100vh;
   }
   .panel {
     width: calc(100% - 12px);
